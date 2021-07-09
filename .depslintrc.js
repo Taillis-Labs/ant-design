@@ -6,7 +6,7 @@ module.exports = {
     '**/__tests__/**',
     '**/style/**',
     '**/locale/**',
-    '**/*-provider/**',
+    '**/*-provider/** ',
     '**/*.json',
   ],
   modulePattern: [
